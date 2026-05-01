@@ -229,6 +229,9 @@ This project is intentionally conservative:
 - Add deployment instructions and a hosted demo.
 - Add richer evaluation for false refusals, missed escalations, and citation quality.
 
+<img width="1710" height="992" alt="image" src="https://github.com/user-attachments/assets/ac6172ab-4af6-47fc-9fb7-5b060c85ed59" />
+
+
 ## Important Disclaimer
 
 This is a portfolio and learning project, not a medical device. It is not suitable for real clinical use and should not be used for diagnosis, treatment, medication decisions, or emergency care.
