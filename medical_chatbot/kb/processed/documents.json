@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "hypertension_basics",
+    "title": "Hypertension Basics",
+    "source_type": "patient_education",
+    "topic": "hypertension basics",
+    "audience": "patient",
+    "risk_level": "medium",
+    "text": "Hypertension means high blood pressure. It often has no obvious symptoms, which is why routine blood pressure checks are important.\n\nHealthy habits can help manage blood pressure. These include taking prescribed medicines as directed, reducing salt intake, staying active, and keeping follow-up appointments.\n\nSeek urgent medical care right away if you have severe chest pain, trouble breathing, sudden weakness, or signs of stroke."
+  },
+  {
+    "doc_id": "wound_care_after_stitches",
+    "title": "Wound Care After Stitches",
+    "source_type": "discharge_instruction",
+    "topic": "wound care after stitches",
+    "audience": "patient",
+    "risk_level": "high",
+    "text": "Keep the wound clean and dry for the first 24 hours unless your clinician gave different instructions.\n\nAfter that, change the dressing once a day or sooner if it becomes wet or dirty. Wash your hands before and after touching the wound area.\n\nCall your clinician promptly if you notice fever, worsening redness, swelling, pus, or increasing pain."
+  },
+  {
+    "doc_id": "amoxicillin_general_info",
+    "title": "Amoxicillin General Info",
+    "source_type": "medication_guide",
+    "topic": "amoxicillin general info",
+    "audience": "patient",
+    "risk_level": "high",
+    "text": "Take amoxicillin exactly as prescribed. Finish the full course unless a licensed clinician tells you to stop.\n\nCommon side effects can include nausea, mild diarrhea, or stomach upset. Serious allergic reactions may include rash, swelling, or trouble breathing.\n\nSeek urgent care immediately if you develop trouble breathing, swelling of the face or throat, or severe rash."
+  },
+  {
+    "doc_id": "appointment_scheduling",
+    "title": "Appointment Scheduling",
+    "source_type": "clinic_policy",
+    "topic": "appointment scheduling",
+    "audience": "patient",
+    "risk_level": "low",
+    "text": "Patients can request routine appointments by phone during business hours or through the clinic patient portal.\n\nPlease arrive 15 minutes early for new patient visits and bring your insurance card, medication list, and photo identification.\n\nIf you need to cancel, notify the clinic as early as possible so the appointment slot can be offered to another patient."
+  }
+]
