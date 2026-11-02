@@ -1,10 +1,14 @@
-# Medical Chatbot Demo
+## Medical Chatbot Demo
 
 <img width="1710" height="992" alt="image" src="https://github.com/user-attachments/assets/ac6172ab-4af6-47fc-9fb7-5b060c85ed59" />
 
 A portfolio project demonstrating a safety-aware, retrieval-based medical information chatbot built with Python and Streamlit.
 
 The goal of this project is not to build a production medical assistant. The goal is to demonstrate practical engineering skills for AI application development: retrieval, structured response design, safety routing, evaluation, UI integration, and maintainable Python architecture.
+
+## Outline
+<img width="1491" height="1055" alt="542db9ac-adeb-4f57-99d7-37b46a47be7d" src="https://github.com/user-attachments/assets/ab26ef2d-ae0e-485c-8472-4294c996e11f" />
+
 
 ## Portfolio Highlights
 
